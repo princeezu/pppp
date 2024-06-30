@@ -1,0 +1,388 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo {
+    width: 206px;
+    height: 101.76px;
+    left: 20px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.navbar {
+    display: flex;
+    width: 1200px;
+    height: 90px;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    padding: 26.12px 40px 28.12px 70px;
+    gap: 324px;
+    border-radius: 34px 0px 0px 0px;
+    opacity: 0px;
+    position: sticky;
+}
+
+.navbar ul {
+    text-decoration: none;
+    display: flex;
+    width: Hug (580px)px;
+    height: Hug (48px)px;
+    top: 53px;
+    left: 820px;
+    gap: 77px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+
+.homebtn {
+    color: orangered;
+    text-decoration: none;
+
+}
+
+.hhh {
+    color: black;
+    text-decoration: none;
+}
+
+.banner {
+    position: relative;
+}
+
+.sentence {
+    box-sizing: border-box;
+    height: 13%;
+}
+
+.sentence {
+    width: 600px;
+    height: 326px;
+    position: absolute;
+    top: 32%;
+    left: 13.5%;
+    gap: 7px;
+    color: white;
+    opacity: 0px;
+    font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    font-size: 35px;
+    gap: 0px;
+    width: 937px;
+}
+
+
+.why {
+    font-family: "Poppins-bold", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 58px;
+    line-height: 80px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+
+.ffff {
+    box-sizing: border-box;
+    position: relative;
+    width: 200px;
+    height: 36px;
+    left: 555px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    bottom: 497px;
+    color: #F6F6F6;
+}
+
+.dddd {
+    box-sizing: border-box;
+    position: relative;
+    width: 600px;
+    height: 38px;
+    left: 370px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 430;
+    line-height: 38px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    bottom: 318px;
+    color: #F6F6F6;
+}
+
+
+.button2 {
+    box-sizing: border-box;
+    position: relative;
+    text-decoration: none;
+    position: relative;
+    color: white;
+    background-color: orangered;
+    bottom: 270px;
+    left: 400px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+}
+
+.button3 {
+    box-sizing: border-box;
+    position: relative;
+    text-decoration: none;
+    position: relative;
+    color: white;
+    bottom: 310px;
+    left: 710px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    border: 1px solid white;
+}
+
+
+
+.Phone1 {
+    box-sizing: border-box;
+    position: relative;
+    bottom: 960px;
+    left: 260px;
+}
+
+.Phone2 {
+    box-sizing: border-box;
+    position: relative;
+    bottom: 215px;
+    left: 620px;
+}
+
+.hr1 {
+    position: relative;
+    bottom: 940px;
+    width: 884px;
+    left: 240px;
+    border: 3px solid #E4E4E4;
+}
+
+
+.how {
+    position: relative;
+    box-sizing: border-box;
+    font-family: Montserrat;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0px;
+    bottom: 890px;
+    left: 450px;
+}
+
+.Phone3 {
+    position: relative;
+    box-sizing: border-box;
+    bottom: 890px;
+    left: 100px;
+}
+
+.create {
+    position: relative;
+    box-sizing: border-box;
+    width: 450px;
+    font-family: Montserrat;
+    bottom: 1460px;
+    left: 680px
+}
+
+.create1 {
+    color: orangered;
+    text-decoration: none;
+
+}
+
+.account {
+    font-family: Montserrat;
+    font-weight: 10px;
+    color: #737373;
+    font-size: 20px;
+}
+
+.Phone4 {
+    position: relative;
+    box-sizing: border-box;
+    bottom: 1250px;
+    left: 700px;
+}
+
+.createw {
+    position: relative;
+    box-sizing: border-box;
+    width: 450px;
+    font-family: Montserrat;
+    left: 200px;
+    bottom: 1800px;
+}
+
+.create3 {
+    color: orangered;
+    text-decoration: none;
+}
+
+.Phone5 {
+    position: relative;
+    box-sizing: border-box;
+    bottom: 1600px;
+    left: 100px;
+}
+
+.create4 {
+    color: orangered;
+    text-decoration: none;
+}
+
+.createq {
+    position: relative;
+    box-sizing: border-box;
+    width: 450px;
+    font-family: Montserrat;
+    bottom: 2150px;
+    left: 680px
+}
+
+.Phone6 {
+    position: relative;
+    box-sizing: border-box;
+    width: 1300px;
+    bottom: 1800px;
+}
+
+.theapp {
+    position: relative;
+    box-sizing: border-box;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 80px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    bottom: 2150px;
+    color: white;
+}
+
+.theapp22 {
+    position: relative;
+    box-sizing: border-box;
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 80px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    bottom: 2170px;
+    color: white;
+}
+
+.button4 {
+    position: relative;
+    box-sizing: border-box;
+    bottom: 2120px;
+    left: 400px;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    font-family: Montserrat;
+    font-weight: 600;
+    border-radius: 10px
+}
+
+.button5 {
+    position: relative;
+    box-sizing: border-box;
+    bottom: 2140px;
+    left: 700px;
+    text-decoration: none;
+    background-color: none;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    font-family: Montserrat;
+    font-weight: 600;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.bbww {
+    position: relative;
+    box-sizing: border-box;
+    bottom: 1950px;
+    left: 160px;
+}
+
+.footer {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    gap: 24px;
+    font-size: xx-large;
+    bottom: 2012px;
+    left: 500px;
+}
+
+.Copywright {
+    position: relative;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: right;
+    bottom: 2040px;
+    left: -180px;
+    color: #5C5C5C;
+}
