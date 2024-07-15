@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.logo {
+    margin-left: 250px;
+}
+
+.header1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 102px;
+    border: 1px solid red;
+}
+
+.navlinkd {
+    position: absolute;
+    right: 840px;
+    border-top: 1px solid black;
+    padding: 30px;
+    color: black;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-family: "Nanum Gothic", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+
+}
+
+.navlinksss {
+    padding: 30px;
+    color: black;
+    font-family: "Nanum Gothic", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+
+}
+
+.navlinks {
+    margin-right: 200px;
+}
+
+.buildingimg {
+    height: 829px;
+    width: 770px;
+
+}
+
+.projectimg {
+    position: relative;
+    height: 840px;
+    display: flex;
+}
+
+.projecttext {
+    position: absolute;
+    top: 350px;
+    left: 250px;
+}
+
+.buildingdiv {
+    position: absolute;
+    left: 660px;
+}
+
+.project {
+    font-family: "Baskervville SC", serif;
+    color: #BDBDBD;
+    font-size: 64px;
+    font-weight: 300;
+    line-height: 64px;
+}
+
+.nurtown {
+    font-family: "Anton SC", sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+}
+
+.arrows {
+    position: absolute;
+    top: 550px;
+    left: 250px;
+}
+
+.arrowright {
+    position: absolute;
+    left: 75px;
+}
+
+.boximage {
+    position: absolute;
+    top: 758px;
+    left: 655px;
+}
+
+.slide-numbers {
+    position: absolute;
+    top: 700px;
+    left: 250px;
+}
+
+.glasssection {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 1180px;
+    height: 435px;
+    border: 1px solid red;
+    background-color: #FBFBFB;
+    margin-left: 250px;
+    padding-right: 150px;
+    padding-top: 30px;
+    padding-left: 150px;
+
+}
+
+.glasstexth {
+    color: #BDBDBD;
+    font-family: ;
+    font-size: 55px;
+    font-weight: 300;
+    line-height: 64px;
+
+}
+
+.topglassimg {
+    margin-bottom: 20px;
+}
+
+.numbers {
+    border: 1px solid red;
+    width: 1180px;
+    height: 350px;
+    margin-left: 250px;
+
+}
+
+.number1 {
+    display: flex;
+    line-height: 36px;
+    padding-right: 200px;
+}
+
+.number2 {
+    display: flex;
+    line-height: 36px;
+}
+
+.numbersdiv {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-left: 10px;
+    padding-right: 200px;
+    gap: 70px;
+    padding-top: 45px;
+}
+
+.numbersheader {
+    font-size: 64px;
+    font-weight: 300;
+    line-height: 64px;
+    color: gray;
+    margin-top: 90px;
+}
+
+.numberglasstext {
+    margin-left: 5px;
+}
