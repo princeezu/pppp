@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <form action="" method="get" id="form">
+        <div>
+            <label for="firstname"><h3>Firstname</span></h3></label>
+            <input type="text" name="firstname" id="firstname" placeholder="enter firstname" >
+            <span id="firstname-error"></span>
+        </div>
+        <div>
+            <label for="lastname"><h3>Lastname</h3></label>
+            <input type="text" name="lastname" id="lastname" placeholder="enter lastname" autocomplete="">
+            <span id="lastname-error"></span>
+        </div>
+        <div>
+                <label for="email"><h3>Email</h3></label>
+                <input type="text" name="email" id="email" placeholder="enter email" autocomplete="">
+                <span id="email-error"></span>
+        </div>
+        <div>
+            <label for="password"><h3>Password</h3></label>
+            <input type="password" name="password" id="password" placeholder="enter password">
+            <span id="password-error"></span>
+        </div>
+        <div>
+            <label for="password2"><h3>Confirm Password</h3></label>
+            <input type="password" name="password2" id="password2" placeholder="confirm password">
+            <span id="password2-error"></span>
+        </div>
+        <button type="submit">SUBMIT</button>
+
+    </form>
+    <script src="./script.js"></script>
+</body>
+</html>
